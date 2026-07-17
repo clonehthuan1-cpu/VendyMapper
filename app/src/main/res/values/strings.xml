@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vendy Mapper</string>
+    <string name="accessibility_service_description">Cho phép Vendy Mapper mô phỏng thao tác chạm để ánh xạ chuột/bàn phím sang màn hình cảm ứng.</string>
+</resources>
